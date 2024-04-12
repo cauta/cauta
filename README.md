@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cauta&bg_color=f7dfe1&color=a559a5&line=ae5eae&point=283f34&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **cauta/cauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
