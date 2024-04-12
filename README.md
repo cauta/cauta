@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cauta&bg_color=f7dfe1&color=a559a5&line=ae5eae&point=283f34&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Cau Ta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cauta&bg_color=f7dfe1&color=a559a5&line=ae5eae&point=283f34&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+| <a href="https://github.com/cauta/github-readme-stats"><img align="center" src="https://github-readme-stats-gamma-ten-39.vercel.app/api?username=cauta&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cau Ta's github stats" /></a> | <a href="https://github.com/cauta/github-readme-stats"><img align="center" src="https://github-readme-stats-gamma-ten-39.vercel.app/api/top-langs/?username=cauta&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <!--
 **cauta/cauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
